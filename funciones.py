@@ -1,4 +1,4 @@
-# funciones.py
+
 class InventarioFrutas:
     def __init__(self, max_cant=100, nombre_max=30):
         self.max_cant = max_cant
